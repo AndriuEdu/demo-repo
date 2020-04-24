@@ -4,3 +4,4 @@ var c = (a + b);
 
 console.log(c);
 
+alert("Gracias André");
